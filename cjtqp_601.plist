@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://cjoy.oss-cn-hongkong.aliyuncs.com/user-dir/%E6%A3%8B%E7%89%8C%E6%B8%B8%E6%88%8F%20%E5%B0%81%E9%9D%A2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,20 +27,20 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://cjoy.oss-cn-hongkong.aliyuncs.com/user-dir/%E6%A3%8B%E7%89%8C%E6%B8%B8%E6%88%8F%20%E5%B0%81%E9%9D%A2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
-				<key>bundle-version</key>
-				<string>1.0.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>GO GO JOY App download</string>
-			</dict>
+   				<key>CFBundleTypeRole</key>
+   				<string>Editor</string>
+   				<key>CFBundleURLName</key>
+   				<string>com.cjoy.cjtqp</string>
+   				<key>CFBundleURLSchemes</key>
+   				<array>
+    					<string>opencjtqp</string>
+   				</array>
+  			</dict>
 		</dict>
 	</array>
 </dict>
